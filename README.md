@@ -12,6 +12,12 @@ SQL (data analysis and transformation)
 Power BI (data visualization and dashboarding)
 
 
+## 🔹 Dataset  
+
+The dataset used for this analysis can be accessed here:  
+
+👉 [Download Dataset](dataset/superstore.csv)
+
 🔹 SQL Analysis
 
 [View SQL Queries](sql)
