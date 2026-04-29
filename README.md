@@ -11,7 +11,51 @@ SQL (data analysis and transformation)
 
 Power BI (data visualization and dashboarding)
 
+
+🔹 SQL Analysis
+
+[View SQL Queries](sql/superstore_sales_analysis)
+
+SQL queries were used to explore the dataset and answer key business questions:
+
+-Sales by Region – Identified regional performance using aggregation
+
+-Top-Selling Products – Ranked products based on total sales
+
+-Customer Segmentation – Counted unique customers across segments
+
+-Monthly Sales Trends – Analyzed time-based sales patterns
+
+-Category & Sub-Category Analysis – Identified top-performing sub-categories within each category
+
+-Shipping Performance – Calculated average delivery time by shipping mode
+
+-Top Customers by Region – Ranked customers within each region using window functions
+
+-Cumulative Sales Trend – Generated running total of sales over time
+
+-Underperforming States – Compared state-level sales against national average
+
+-Category Contribution – Calculated percentage contribution of each category to total sales
+
+
+🔹 SQL Concepts Used
+
+Aggregations (SUM, AVG, COUNT)
+
+Grouping (GROUP BY)
+
+Window Functions (RANK(), SUM() OVER)
+
+Common Table Expressions (CTEs)
+
+Subqueries
+
+Date Functions (DATE_TRUNC, TO_DATE)
+
+
 🔹 Dashboard Pages
+
 
 🟦 Executive Overview
 
@@ -63,31 +107,10 @@ Certain products and sub-categories drive a major share of revenue
 Shipping modes differ significantly in delivery time, reflecting service-level trade-offs
 Sales trends fluctuate over time with an overall growth pattern
 
-🔹 SQL Analysis
 
-SQL queries were used to explore the dataset and answer key business questions:
 
-Sales by Region – Identified regional performance using aggregation
-Top-Selling Products – Ranked products based on total sales
-Customer Segmentation – Counted unique customers across segments
-Monthly Sales Trends – Analyzed time-based sales patterns
-Category & Sub-Category Analysis – Identified top-performing sub-categories within each category
-Shipping Performance – Calculated average delivery time by shipping mode
-Top Customers by Region – Ranked customers within each region using window functions
-Cumulative Sales Trend – Generated running total of sales over time
-Underperforming States – Compared state-level sales against national average
-Category Contribution – Calculated percentage contribution of each category to total sales
 
-🔹 SQL Concepts Used
+🔹 Conclusion
 
-Aggregations (SUM, AVG, COUNT)
+This project demonstrates the ability to transform raw sales data into meaningful insights using SQL and present them effectively through interactive dashboards in Power BI. It highlights key analytical skills such as data exploration, trend analysis, and business interpretation.
 
-Grouping (GROUP BY)
-
-Window Functions (RANK(), SUM() OVER)
-
-Common Table Expressions (CTEs)
-
-Subqueries
-
-Date Functions (DATE_TRUNC, TO_DATE)
