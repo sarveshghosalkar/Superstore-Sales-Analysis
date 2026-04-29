@@ -1,11 +1,11 @@
 # Superstore-Sales-Analysis
 Data analysis project combining SQL and Power BI to transform raw sales data into actionable insights and dashboards
 
-🔹 Overview
+## 🔹 Overview
 
 This project performs an end-to-end analysis of retail sales data using SQL and Power BI. It focuses on uncovering insights related to sales performance, customer behavior, product trends, and shipping efficiency through structured queries and interactive dashboards.
 
-🔹 Tools Used
+## 🔹 Tools Used
 
 SQL (data analysis and transformation)
 
@@ -14,13 +14,19 @@ Power BI (data visualization and dashboarding)
 
 ## 🔹 Dataset  
 
-The dataset used for this analysis can be accessed here:  
+The dataset contains retail sales transactions, including:
+
+- Order details (Order Date, Ship Date)  
+- Customer information (Customer ID, Segment)  
+- Product details (Category, Sub-Category, Product Name)  
+- Sales data  
 
 👉 [Download Dataset](dataset/superstore.csv)
 
-🔹 SQL Analysis
 
-[View SQL Queries](sql)
+## 🔹 SQL Analysis
+
+👉 [View SQL Queries](sql)
 
 SQL queries were used to explore the dataset and answer key business questions:
 
@@ -45,7 +51,7 @@ SQL queries were used to explore the dataset and answer key business questions:
 -Category Contribution – Calculated percentage contribution of each category to total sales
 
 
-🔹 SQL Concepts Used
+## 🔹 SQL Concepts Used
 
 Aggregations (SUM, AVG, COUNT)
 
@@ -60,7 +66,7 @@ Subqueries
 Date Functions (DATE_TRUNC, TO_DATE)
 
 
-🔹 Dashboard Pages
+## 🔹 Dashboard Pages
 
 
 🟦 Executive Overview
@@ -70,7 +76,6 @@ Displays overall sales trends, regional distribution, and category contribution
 <br>
 
 ![Executive Overview](superstore_sales_analysis/Executive_overview.png)
-
 
 
 
@@ -105,7 +110,7 @@ Shows daily and cumulative sales trends over time
 ![Daily_and_Cumulative_sales_trend](superstore_sales_analysis/Daily_and_Cumulative_sales_trend.png)
 
 
-🔹 Key Insights
+## 🔹 Key Insights
 
 Sales are distributed across multiple regions with varying levels of contribution
 A small group of customers contributes significantly to overall sales
@@ -114,9 +119,7 @@ Shipping modes differ significantly in delivery time, reflecting service-level t
 Sales trends fluctuate over time with an overall growth pattern
 
 
-
-
-🔹 Conclusion
+## 🔹 Conclusion
 
 This project demonstrates the ability to transform raw sales data into meaningful insights using SQL and present them effectively through interactive dashboards in Power BI. It highlights key analytical skills such as data exploration, trend analysis, and business interpretation.
 
