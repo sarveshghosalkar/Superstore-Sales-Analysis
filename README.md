@@ -81,8 +81,13 @@ Category Contribution – Calculated percentage contribution of each category to
 🔹 SQL Concepts Used
 
 Aggregations (SUM, AVG, COUNT)
+
 Grouping (GROUP BY)
+
 Window Functions (RANK(), SUM() OVER)
+
 Common Table Expressions (CTEs)
+
 Subqueries
+
 Date Functions (DATE_TRUNC, TO_DATE)
