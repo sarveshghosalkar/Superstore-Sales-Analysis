@@ -17,21 +17,43 @@ Power BI (data visualization and dashboarding)
 
 Displays overall sales trends, regional distribution, and category contribution
 
+<br>
+
+![Executive Overview](superstore_sales_analysis/Executive_overview.png)
+
+
+
+
 🟩 Customer Insights
 
 Highlights top customers and customer segmentation
 
+<br>
+
+![Customer_Insights](superstore_sales_analysis/Customer_insights.png)
+
 🟨 Product Performance
 
 Identifies best-selling products and category-level performance
+<br>
+
+![Product_Perfomance](superstore_sales_analysis/Product_Perfomance.png)
+
 
 🟥 Operations & Shipping Analysis
 
 Analyzes shipping modes and average delivery time
+<br>
+
+![Operations_&_Shipping analysis](superstore_sales_analysis/Operations_&_Shipping_analysis.png)
 
 🟪 Sales Trend Analysis
 
 Shows daily and cumulative sales trends over time
+<br>
+
+![Daily_and_Cumulative_sales_trend](superstore_sales_analysis/Daily_and_Cumulative_sales_trend.png)
+
 
 🔹 Key Insights
 
