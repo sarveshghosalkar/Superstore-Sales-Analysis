@@ -14,7 +14,7 @@ Power BI (data visualization and dashboarding)
 
 🔹 SQL Analysis
 
-[View SQL Queries](sql/superstore_sales_analysis)
+[View SQL Queries](superstore_sales_analysis/sql)
 
 SQL queries were used to explore the dataset and answer key business questions:
 
